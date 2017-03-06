@@ -1,0 +1,95 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "nBhBtI5wOm4+vOD4xZbWbE3FlZM=",
+			"path": "github.com/boltdb/bolt",
+			"revision": "a705895fdad108f053eae7ee011ed94a0541ee13",
+			"revisionTime": "2016-12-28T23:26:56Z"
+		},
+		{
+			"checksumSHA1": "xBjs3BWU5Kyosw3KYw16rsFY7r0=",
+			"origin": "github.com/reflect/filq/vendor/github.com/jmikkola/parsego/parser",
+			"path": "github.com/jmikkola/parsego/parser",
+			"revision": "8612a1653b5128afd59d00e1bb093b44ae20ea68",
+			"revisionTime": "2017-03-06T05:55:54Z"
+		},
+		{
+			"checksumSHA1": "0V1Kk8OQBn3CO3N9R54FjLboEZc=",
+			"origin": "github.com/reflect/filq/vendor/github.com/jmikkola/parsego/parser/result",
+			"path": "github.com/jmikkola/parsego/parser/result",
+			"revision": "8612a1653b5128afd59d00e1bb093b44ae20ea68",
+			"revisionTime": "2017-03-06T05:55:54Z"
+		},
+		{
+			"checksumSHA1": "M536poey7XslOIQCBxa9PkuryeI=",
+			"origin": "github.com/reflect/filq/vendor/github.com/jmikkola/parsego/parser/scanner",
+			"path": "github.com/jmikkola/parsego/parser/scanner",
+			"revision": "8612a1653b5128afd59d00e1bb093b44ae20ea68",
+			"revisionTime": "2017-03-06T05:55:54Z"
+		},
+		{
+			"checksumSHA1": "+lmwqPwBAaMdFD7K2vwxjDNu4Q0=",
+			"origin": "github.com/reflect/filq/vendor/github.com/jmikkola/parsego/parser/textpos",
+			"path": "github.com/jmikkola/parsego/parser/textpos",
+			"revision": "8612a1653b5128afd59d00e1bb093b44ae20ea68",
+			"revisionTime": "2017-03-06T05:55:54Z"
+		},
+		{
+			"checksumSHA1": "ynJSWoF6v+3zMnh9R0QmmG6iGV8=",
+			"path": "github.com/pkg/errors",
+			"revision": "bfd5150e4e41705ded2129ec33379de1cb90b513",
+			"revisionTime": "2017-02-27T22:00:37Z"
+		},
+		{
+			"checksumSHA1": "TzUWSOXnsMiKFtbqy7AJY9YcqD0=",
+			"path": "github.com/reflect/filq",
+			"revision": "9dfb35f5be06b822075e617ccc9fe8acc58b9e75",
+			"revisionTime": "2017-03-06T06:23:23Z"
+		},
+		{
+			"checksumSHA1": "hZffQkNsD7JSkzCRM5COyJcXvu4=",
+			"path": "github.com/reflect/filq/context",
+			"revision": "9dfb35f5be06b822075e617ccc9fe8acc58b9e75",
+			"revisionTime": "2017-03-06T06:23:23Z"
+		},
+		{
+			"checksumSHA1": "Q7CZUt3t1r0QKxdpNyyWNGAZl8s=",
+			"path": "github.com/reflect/filq/filter",
+			"revision": "9dfb35f5be06b822075e617ccc9fe8acc58b9e75",
+			"revisionTime": "2017-03-06T06:23:23Z"
+		},
+		{
+			"checksumSHA1": "1u/JCt4EzCg5TSkodIgWbKtnoSU=",
+			"path": "github.com/reflect/filq/function",
+			"revision": "9dfb35f5be06b822075e617ccc9fe8acc58b9e75",
+			"revisionTime": "2017-03-06T06:23:23Z"
+		},
+		{
+			"checksumSHA1": "t4hWUGoWf4537xQMp1BttZGKt6c=",
+			"path": "github.com/reflect/filq/lib/json",
+			"revision": "9dfb35f5be06b822075e617ccc9fe8acc58b9e75",
+			"revisionTime": "2017-03-06T06:23:23Z"
+		},
+		{
+			"checksumSHA1": "a8HvrSqua6GPZdtryXcOkoToiyI=",
+			"path": "github.com/reflect/filq/lib/regex",
+			"revision": "9dfb35f5be06b822075e617ccc9fe8acc58b9e75",
+			"revisionTime": "2017-03-06T06:23:23Z"
+		},
+		{
+			"checksumSHA1": "+RZCMWqHuThWGT5NBjJvRZwuP/s=",
+			"path": "github.com/reflect/filq/parser",
+			"revision": "9dfb35f5be06b822075e617ccc9fe8acc58b9e75",
+			"revisionTime": "2017-03-06T06:23:23Z"
+		},
+		{
+			"checksumSHA1": "IzwNa58wK4QZSTUQ1NADQ+wLEv0=",
+			"path": "github.com/reflect/filq/types",
+			"revision": "9dfb35f5be06b822075e617ccc9fe8acc58b9e75",
+			"revisionTime": "2017-03-06T06:23:23Z"
+		}
+	],
+	"rootPath": "github.com/reflect/boltq"
+}

@@ -9,86 +9,88 @@
 			"revisionTime": "2016-12-28T23:26:56Z"
 		},
 		{
-			"checksumSHA1": "xBjs3BWU5Kyosw3KYw16rsFY7r0=",
-			"origin": "github.com/reflect/filq/vendor/github.com/jmikkola/parsego/parser",
-			"path": "github.com/jmikkola/parsego/parser",
-			"revision": "8612a1653b5128afd59d00e1bb093b44ae20ea68",
-			"revisionTime": "2017-03-06T05:55:54Z"
-		},
-		{
-			"checksumSHA1": "0V1Kk8OQBn3CO3N9R54FjLboEZc=",
-			"origin": "github.com/reflect/filq/vendor/github.com/jmikkola/parsego/parser/result",
-			"path": "github.com/jmikkola/parsego/parser/result",
-			"revision": "8612a1653b5128afd59d00e1bb093b44ae20ea68",
-			"revisionTime": "2017-03-06T05:55:54Z"
-		},
-		{
-			"checksumSHA1": "M536poey7XslOIQCBxa9PkuryeI=",
-			"origin": "github.com/reflect/filq/vendor/github.com/jmikkola/parsego/parser/scanner",
-			"path": "github.com/jmikkola/parsego/parser/scanner",
-			"revision": "8612a1653b5128afd59d00e1bb093b44ae20ea68",
-			"revisionTime": "2017-03-06T05:55:54Z"
-		},
-		{
-			"checksumSHA1": "+lmwqPwBAaMdFD7K2vwxjDNu4Q0=",
-			"origin": "github.com/reflect/filq/vendor/github.com/jmikkola/parsego/parser/textpos",
-			"path": "github.com/jmikkola/parsego/parser/textpos",
-			"revision": "8612a1653b5128afd59d00e1bb093b44ae20ea68",
-			"revisionTime": "2017-03-06T05:55:54Z"
-		},
-		{
 			"checksumSHA1": "ynJSWoF6v+3zMnh9R0QmmG6iGV8=",
 			"path": "github.com/pkg/errors",
 			"revision": "bfd5150e4e41705ded2129ec33379de1cb90b513",
 			"revisionTime": "2017-02-27T22:00:37Z"
 		},
 		{
-			"checksumSHA1": "TzUWSOXnsMiKFtbqy7AJY9YcqD0=",
+			"checksumSHA1": "EKdjs7lnA4J70/0k3sczwJUnPCQ=",
 			"path": "github.com/reflect/filq",
-			"revision": "9dfb35f5be06b822075e617ccc9fe8acc58b9e75",
-			"revisionTime": "2017-03-06T06:23:23Z"
+			"revision": "714c509404ddfe638f1a0a8a8d2275eb51aeba59",
+			"revisionTime": "2017-03-12T02:34:22Z"
 		},
 		{
-			"checksumSHA1": "hZffQkNsD7JSkzCRM5COyJcXvu4=",
+			"checksumSHA1": "fgg+jX2ccgj8HZVNdYnlq5ltJzc=",
 			"path": "github.com/reflect/filq/context",
-			"revision": "9dfb35f5be06b822075e617ccc9fe8acc58b9e75",
-			"revisionTime": "2017-03-06T06:23:23Z"
+			"revision": "714c509404ddfe638f1a0a8a8d2275eb51aeba59",
+			"revisionTime": "2017-03-12T02:34:22Z"
 		},
 		{
-			"checksumSHA1": "Q7CZUt3t1r0QKxdpNyyWNGAZl8s=",
+			"checksumSHA1": "B21IHjPZXejiE3LdjE6cqarYL+U=",
 			"path": "github.com/reflect/filq/filter",
-			"revision": "9dfb35f5be06b822075e617ccc9fe8acc58b9e75",
-			"revisionTime": "2017-03-06T06:23:23Z"
+			"revision": "714c509404ddfe638f1a0a8a8d2275eb51aeba59",
+			"revisionTime": "2017-03-12T02:34:22Z"
 		},
 		{
-			"checksumSHA1": "1u/JCt4EzCg5TSkodIgWbKtnoSU=",
+			"checksumSHA1": "ETr7tJZENPxztnSBEfP1X5/NdrI=",
 			"path": "github.com/reflect/filq/function",
-			"revision": "9dfb35f5be06b822075e617ccc9fe8acc58b9e75",
-			"revisionTime": "2017-03-06T06:23:23Z"
+			"revision": "714c509404ddfe638f1a0a8a8d2275eb51aeba59",
+			"revisionTime": "2017-03-12T02:34:22Z"
+		},
+		{
+			"checksumSHA1": "3UqetyzS/KZFKtYqxIFE4moEWaw=",
+			"path": "github.com/reflect/filq/lib/io",
+			"revision": "714c509404ddfe638f1a0a8a8d2275eb51aeba59",
+			"revisionTime": "2017-03-12T02:34:22Z"
 		},
 		{
 			"checksumSHA1": "t4hWUGoWf4537xQMp1BttZGKt6c=",
 			"path": "github.com/reflect/filq/lib/json",
-			"revision": "9dfb35f5be06b822075e617ccc9fe8acc58b9e75",
-			"revisionTime": "2017-03-06T06:23:23Z"
+			"revision": "714c509404ddfe638f1a0a8a8d2275eb51aeba59",
+			"revisionTime": "2017-03-12T02:34:22Z"
 		},
 		{
 			"checksumSHA1": "a8HvrSqua6GPZdtryXcOkoToiyI=",
 			"path": "github.com/reflect/filq/lib/regex",
-			"revision": "9dfb35f5be06b822075e617ccc9fe8acc58b9e75",
-			"revisionTime": "2017-03-06T06:23:23Z"
+			"revision": "714c509404ddfe638f1a0a8a8d2275eb51aeba59",
+			"revisionTime": "2017-03-12T02:34:22Z"
 		},
 		{
-			"checksumSHA1": "+RZCMWqHuThWGT5NBjJvRZwuP/s=",
+			"checksumSHA1": "veAtSvC5XDN6TGCXF4hhEpvWuS0=",
 			"path": "github.com/reflect/filq/parser",
-			"revision": "9dfb35f5be06b822075e617ccc9fe8acc58b9e75",
-			"revisionTime": "2017-03-06T06:23:23Z"
+			"revision": "714c509404ddfe638f1a0a8a8d2275eb51aeba59",
+			"revisionTime": "2017-03-12T02:34:22Z"
 		},
 		{
-			"checksumSHA1": "IzwNa58wK4QZSTUQ1NADQ+wLEv0=",
+			"checksumSHA1": "bpO3yY1gw6K/d/eC9IzZDCh3fy0=",
 			"path": "github.com/reflect/filq/types",
-			"revision": "9dfb35f5be06b822075e617ccc9fe8acc58b9e75",
-			"revisionTime": "2017-03-06T06:23:23Z"
+			"revision": "714c509404ddfe638f1a0a8a8d2275eb51aeba59",
+			"revisionTime": "2017-03-12T02:34:22Z"
+		},
+		{
+			"checksumSHA1": "8bd9+VqRrVqbt0voNrukgG54q04=",
+			"path": "github.com/reflect/parsego/parser",
+			"revision": "0da7f4aac455d124e4fc22e8fdd327a6618a1b33",
+			"revisionTime": "2017-03-11T22:40:18Z"
+		},
+		{
+			"checksumSHA1": "8niRA3XVByUIe7MGdHpMRacbXI0=",
+			"path": "github.com/reflect/parsego/parser/result",
+			"revision": "0da7f4aac455d124e4fc22e8fdd327a6618a1b33",
+			"revisionTime": "2017-03-11T22:40:18Z"
+		},
+		{
+			"checksumSHA1": "8/yHHkOLDy7/hDZQz1MtjR/uwnc=",
+			"path": "github.com/reflect/parsego/parser/scanner",
+			"revision": "0da7f4aac455d124e4fc22e8fdd327a6618a1b33",
+			"revisionTime": "2017-03-11T22:40:18Z"
+		},
+		{
+			"checksumSHA1": "OwODsLU2ZeSSfV6PLWl/MW0weyQ=",
+			"path": "github.com/reflect/parsego/parser/textpos",
+			"revision": "0da7f4aac455d124e4fc22e8fdd327a6618a1b33",
+			"revisionTime": "2017-03-11T22:40:18Z"
 		}
 	],
 	"rootPath": "github.com/reflect/boltq"

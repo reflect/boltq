@@ -27,7 +27,7 @@ type stackTracer interface {
 func main() {
 	flag.Parse()
 
-	db, err := bolt.Open(BoltDBFile, 0400, &bolt.Options{Timeout: 1 * time.Second})
+	db, err := bolt.Open(BoltDBFile, 0400, &bolt.Options{Timeout: 1 * time.Second, ReadOnly: true})
 	if err != nil {
 		panic(err)
 	}
